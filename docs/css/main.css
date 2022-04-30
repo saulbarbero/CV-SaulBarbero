@@ -1,6 +1,20 @@
 /* Buttons */
 /* Inputs */
 /* Timeline custom component */
+
+
+body {
+  background-image: url("/docs/images/wallpaper.png");
+  
+
+}
+
+.fondo {
+  background-image: url("/docs/images/wallpaper.png");
+  
+  
+}
+
 .timeline {
   border-left: 2px solid #05F283; /*configuracion barra de time laps*/
   padding: 1rem 0; }
