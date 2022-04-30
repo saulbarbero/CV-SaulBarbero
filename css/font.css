@@ -1,12 +1,15 @@
 html {
     height: 100%;
     scroll-behavior: smooth; }
-  
+
 body {
-    background-image: linear-gradient(to bottom right,#012E40,#023859,#9BF2EA);
+    background-image: url("/images/pngwing.com.png");
+    
+  
   }
 
 .fondo {
-    background-image: linear-gradient(to bottom right,#012E40,#023859,#9BF2EA);
-  
+    background-image: url("/images/pngwing.com.png");
+    
+    
 }
