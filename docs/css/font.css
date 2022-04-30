@@ -3,13 +3,13 @@ html {
     scroll-behavior: smooth; }
 
 body {
-    background-image: url("/docs/images/wallpaper.png");
+    background-image: url("/images/wallpaper.png");
     
   
   }
 
 .fondo {
-    background-image: url("/docs/images/wallpaper.png");
+    background-image: url("/images/wallpaper.png");
     
     
 }
