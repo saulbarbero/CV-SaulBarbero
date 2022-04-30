@@ -82,7 +82,7 @@ html {
 
 .cover-bg { /*color banner foto*/
   background-color: #012E40;
-  background-image: url("/images/banner.jpg");
+  background-image: url("/docs/images/banner.jpg");
   
   
   border-radius: 10px 10px 0 0; }
